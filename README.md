@@ -1,3 +1,5 @@
 # CPE232_Ron_RASL_T_Parman
+echo "HELLO THIS IS PARMAN'S REPOSITORY"
+
 
 
