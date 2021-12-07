@@ -1,0 +1,7 @@
+---
+- hosts: rhel_servers
+  become: true
+  tasks:
+    name: Install httpd webserver
+    dnf: name=apache2 state=present 
+     
